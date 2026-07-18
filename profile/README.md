@@ -2,6 +2,8 @@
 
 Complete, deployable engineering environments that bring together infrastructure, operating systems, runtimes, and applications into executable platforms.
 
+![Open Engineering Execution Platforms hero-banner.png](../assets/hero-banner.png)
+
 Open Engineering Execution Platforms is the home of reusable execution platforms within the Open Engineering ecosystem. It provides a vendor-neutral way to describe, compose, deploy, and operate complete engineering environments across cloud, edge, on-premises, and hybrid infrastructures.
 
 Rather than defining software components in isolation, Execution Platforms describe how an entire solution is assembled and executed.
